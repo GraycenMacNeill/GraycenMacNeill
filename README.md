@@ -14,7 +14,12 @@ In addition to game development, I actively share my knowledge with others. I ru
 - Java Programming
 - Adobe Creative Suite: Photoshop, Premiere Pro
 
-## ♝ Connect with Me:
+### ♝ Professional Values:
+- Collaboration & Leadership: Proven ability to work effectively in team environments and lead projects to successful completion.
+- Continuous Learning: Committed to staying updated with industry trends and constantly expanding my skill set.
+- Problem-Solving: Strong analytical and critical thinking skills, with a focus on finding creative solutions to complex challenges.
+
+## Connect with Me:
 
 - ### [YouTube](https://www.youtube.com/@GraycenMacNeill)
 - ### [Github](https://github.com/GraycenMacNeill)
