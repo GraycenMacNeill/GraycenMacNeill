@@ -4,8 +4,6 @@ I have a deep passion for computers and software development, with a particular 
 
 In addition to game development, I actively share my knowledge with others. I run a YouTube channel where I produce high-quality tutorials on Unreal Engine and programming,  aimed at helping others fully understand these areas and achieve their own success.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=graycenmacneill&label=Profile%20views&color=0e75b6&style=flat" alt="graycenmacneill" /> </p>
-
 ### ♜ Additional Expertise:
 - Video Editing & Post-Production
 - 2D & 3D Graphic Design
@@ -21,3 +19,5 @@ In addition to game development, I actively share my knowledge with others. I ru
 - ### [YouTube](https://www.youtube.com/@GraycenMacNeill)
 - ### [Github](https://github.com/GraycenMacNeill)
 - ### [LinkedIn](https://www.linkedin.com/in/graycen-macneill-46361229a/)
+
+</br ><p align="left"> <img src="https://komarev.com/ghpvc/?username=graycenmacneill&label=Profile%20views&color=0e75b6&style=flat" alt="graycenmacneill" /> </p>
